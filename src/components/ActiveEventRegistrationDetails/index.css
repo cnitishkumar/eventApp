@@ -1,0 +1,51 @@
+.yet-to-register-image {
+  width: 40%;
+}
+.register-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  padding: 10px;
+}
+
+.register-me-btn {
+  height: 45px;
+  border-radius: 5px;
+  width: 40%;
+  font-family: 'Roboto';
+  color: #f8fafc;
+  cursor: pointer;
+  background-color: #0967d2;
+  border-width: 0px;
+  font-weight: 600;
+  margin: 10px;
+}
+.event-description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: medium;
+  font-weight: 500;
+  text-align: center;
+}
+.tick-image {
+  width: 100px;
+  height: 100px;
+}
+.already-registered {
+  font-size: larger;
+  color: #323f4b;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0px;
+}
+.registrations-closed-image {
+  width: 30%;
+}
+.not-clicked {
+  font-size: medium;
+  color: #475569;
+  font-weight: 500;
+  align-self: flex-start;
+}
